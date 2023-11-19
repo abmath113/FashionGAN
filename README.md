@@ -41,4 +41,4 @@ This project is built upon the following resources:
 
 ## Authors
 
-- [Your Name](https://github.com/abmath113)
+- [Abhishek Thorat](https://github.com/abmath113)
